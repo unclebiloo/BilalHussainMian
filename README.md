@@ -10,7 +10,7 @@ I'm a passionate Python Developer with a knack for building efficient and innova
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: 'Python', JavaScript
 - **Frameworks**: Django, Flask, FastAPI
 - **Tools & Technologies**: Docker, Git, PostgreSQL, Redis, SQL
 - **Cloud Services**: AWS, Heroku
